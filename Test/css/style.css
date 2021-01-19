@@ -1,0 +1,51 @@
+.header{
+	line-height: 1.5;
+	margin-top: 40px;
+	color: #089;
+	margin-bottom: 50px;
+	
+}
+.section{
+	padding: 30px auto;
+}
+body{
+	background-color: #aaf2;
+
+}
+strong{
+	font-size: 26px;
+}
+span{
+	font-size: 24px;
+	display: block;
+}
+.form-header{
+
+}
+.form{
+	border: solid 3px #089;
+	padding: 35px 20px;
+	
+}
+.form-btn{
+	margin: 10px auto;
+	background-color: #089;
+
+}
+.form input{
+	margin-bottom: 12px;
+}
+.section-header, .form-header{
+	font-size: 20px;
+	font-weight: 900;
+	color: #089;
+	margin-bottom: 41px;
+	text-align: center;
+}
+.box-feature{
+	margin: 60px auto;
+}
+.feature p{
+	margin-top: 3px;
+	color: #078;
+}
